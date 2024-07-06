@@ -59,7 +59,7 @@
   }
   
   .switch__bg--enable {
-    background-color: var(--blue);
+    background-color: #34f1f1;
     border-top-left-radius: 500px;
     border-bottom-left-radius: 500px;
     box-shadow: inset 50px 80px 100px -70px #4d4d4d82;
@@ -93,7 +93,7 @@
   }
   
   .switch-circle__bg--enable {
-    background-color: var(--blue);
+    background-color: #34f1f1;
     transform: translateX(calc(var(--switch-circle-size) * -0.5));
     box-shadow:
       inset 20px -40px 140px -110px #000,
